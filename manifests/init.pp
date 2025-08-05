@@ -19,7 +19,7 @@
 #
 # @param mail_package_name
 #   The name of the package to install in order for the mail module of
-#   nginx to be usable.
+#   nginx to be usabl.
 #
 # @param nginx_version
 #   The version of nginx installed (or being installed).
